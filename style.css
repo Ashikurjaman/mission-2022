@@ -1,0 +1,149 @@
+    *{
+        
+        font-family: 'Abyssinica SIL', serif;
+        font-family: 'Ubuntu', sans-serif;
+        text-decoration: none;
+        
+    }
+
+    
+
+    .bar-section{
+        background: #ff006e;
+            width: 5px;
+            height: 111px;
+            position: absolute;
+            margin-top: 117px;
+            margin-left: 67px;
+        }
+    .h1-section{
+        padding: 76px;
+        width: 64%;
+        font-size: 24px;
+        
+    }
+    .h1-section p{
+        font-size: small;
+    }
+
+    .h2-color{
+        color: #ffbe0b;
+    }
+
+    .Hero-Section{
+        display: flex;
+        max-width: 100%;
+        padding-left: 70px;
+    }
+    .Image-section{
+        width: 50%;
+    }
+    .Image-section img{
+        width: 60%;
+        filter: saturate(0);
+    }
+    .Image-section img:hover{
+        
+        filter: opacity(1);
+    }
+    .Explore-Now{
+        background-color: #1d3557;
+        padding: 12px;
+        border: 1px solid white;
+        border-radius: 20px;
+        text-decoration: none;
+        
+    }
+    a{
+        color: aliceblue;
+    }
+
+    .My-Mission-in-2022{
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .mission-section{
+        display: flex;
+        padding-left: 50px;
+        
+    }
+    .mission-section img{
+        width: 20%;
+        
+    }
+    .mission1{
+        width: 30%;
+        box-shadow: 10px 10px 15px gray;
+        border-radius: 10px;
+        font-size: small;
+        margin: 0 10px;
+        padding: 20px;
+        background-color: #ffbe0b;
+    }
+    .mission2{
+        width: 30%;
+        box-shadow: 10px 10px 15px gray;
+        border-radius: 10px;
+        font-size: small;
+        padding: 20px;
+        margin: 0 10px;
+        background-color: #ff006e;
+        
+    }
+    .mission3{
+        width: 30%;
+        box-shadow: 10px 10px 15px gray;
+        border-radius: 10px;
+        padding-left: 20px;
+        font-size: 12px;
+        padding: 20px;
+        margin: 0 10px;
+        background-color: #8338ec;
+        
+    }
+    .mission3:hover{
+        width: 100%;
+        
+    }
+
+    .devlop-section{
+        display: flex;
+        margin-top:180px;
+    }
+    .dp-image{
+        width: 50%;
+        padding-left: 70px;
+    }
+    .dp-image img{
+        width: 60%;
+        
+    }
+    .dp-text{
+        width: 50%;
+        padding-top: 80px;
+        font-size: 14px;
+        padding-right: 50px;
+        
+    }
+
+    .dp-text h2{
+        font-size: 35px;
+    }
+
+    #text-sizing{
+        padding-left: 50px;
+
+    }
+    #image-project{
+        padding-left: 100px;
+    }
+
+    footer{
+        text-align: center;
+        margin-top: 50px;
+        background-color: black;
+        color: aliceblue;
+        height: 130px;
+    }
+    
